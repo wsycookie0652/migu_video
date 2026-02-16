@@ -1,6 +1,5 @@
 央视频道,#genre#
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -8,9 +7,9 @@ CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695318149053022892/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602161027575187CB1F118B8AF284EE-KJ6P3p&wsSecret=64456385336fc32adb45743a3d7c8b54&wsTime=699280ad
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 卫视频道,#genre#
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
@@ -18,6 +17,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 广东地区,#genre#
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
@@ -71,7 +71,6 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -314,6 +313,7 @@ CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV5超清,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5超清,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV6超清,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695318149053022892/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602161027575187CB1F118B8AF284EE-KJ6P3p&wsSecret=64456385336fc32adb45743a3d7c8b54&wsTime=699280ad
 CCTV16超清,http://74.91.26.218:82/live/cctv16hd.m3u8
 湖南卫视超清,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
