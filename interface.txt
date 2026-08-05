@@ -3,6 +3,8 @@
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视频道",CCTV2财经
 http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=16266166887595176db41639b6172510&wsTime=6a718f1d&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20260804150501DBE576301842512B6F11-91yLj3
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="" group-title="央视频道",CCTV7国防军事
+http://txycdn5.video.qq.com/1370436302.m3u8?time=1785826670&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIFZXflU2ERvvDidxgircP3s7UHAM7HubnXmhTWHw33rUEF_lHD_jUCF_JYn9Mf9EKMkBcAJGbdA3B301bjKG-pE6DdAI6aoKt9_oHHyr7HCR5iXnth9hAbk-QYkt3y01AsemOaH3raVY1WutH72kwWHTMR4XPIF0S-bofto1nAWyhMMPXkCUVUZ698fjCh6VT0SmAKqHEtfmpJC5ZU-utkUybljLv7m29OczacyCxcUG5x_pnDgrI5N7Fc6klR8VWpOLDgHDxc_iTS5-cS5kOAVZ4eRuHkpjzV40Mjzox5JK3vAcUOx0kFNucuUJOzky71muU2B_HyYpiMbRPV-61EnP_WU-j5C3rfhrbI1AatYX4368E3TcOEv_RKpiAGSpLSwVmdcJRaZs4wIkb-bkzIVt4f13u8PYenx7iCwTuA4DeBmNUptprDQDLZD4Z6vuf9FIAJHlGLGKQ9e180_82BUBbR4zAacPAh8e3fxUAwowR1BSmSF07uhX2o6AuJHUEAutnZvhu7WWjaVo9GVrJFvi5DxdcvcsDz7EGY-CFFnLbojR&drmtype=0
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视频道",CCTV9纪录
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV16奥林匹克
@@ -17,6 +19,8 @@ http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="卫视频道",天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="卫视频道",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="广东地区",广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="" group-title="广东地区",广东民生
@@ -545,8 +549,14 @@ https://play.kankanlive.com/live/1680577080200944.m3u8
 http://play.kankanlive.com/live/1680577080200944.flv
 #EXTINF:-1 tvg-id="CCTV2超清" tvg-name="CCTV2超清" tvg-logo="" group-title="超清频道",CCTV2超清
 http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=16266166887595176db41639b6172510&wsTime=6a718f1d&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20260804150501DBE576301842512B6F11-91yLj3
+#EXTINF:-1 tvg-id="CCTV4超清" tvg-name="CCTV4超清" tvg-logo="" group-title="超清频道",CCTV4超清
+http://txycdn4.video.qq.com/1755787502.m3u8?time=1785826855&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIONR0CAWOKCcApJAAUBPnDU4N3CWq1cAH7cRktTvXZmfEJ94F2VTOWNqlyMwUA_LrrIBcPTAlwTSEylyVK2osmihdv-1x5WOJYh-Ll323Gv02EIf9D7-JD4kpt9LPEFA1ZCGHl-pI8VJydKtrc6Bk8KkI-cUFwBin5L7FfJNMX6xmMwoz_04AaFxbzpXzVvs7IifXLVu0MPcs6mExaNhcOHxSqZ82bjihza7Z3oy06Dc1AROAu5204tUj0XRV5MMLEZOf5YlbFE8xbA5OEQiVQ3TUr-heFHiFYpJFQgWRw-oP8CWSchg4Ys2JH-hmnB3sg6Cm6E5pXE9wg90e3BRrfHXpGh5Ife8sCIKPtUedP8iPPWC2W3pZ0FmLVP6rBp-_kw1TYGb0AUESCO8fKEQglnrQ8JrY9-K-1hvsYNu4A6tBZEfkAhmu8NNI2k9Nc72s87fZfy4NT_WU6Hq4VyKxYUphzUCwc62zr9ggHbixXhjFHVOz0x1Q4J4FnVkeyMN2H1UVo1MSfM0xfEZIxQGlAMqezZA4K2EdzvWsNYX9Rq89LC-&drmtype=0
+#EXTINF:-1 tvg-id="CCTV6超清" tvg-name="CCTV6超清" tvg-logo="" group-title="超清频道",CCTV6超清
+http://txycdn1.video.qq.com/1755771402.m3u8?time=1785826757&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgILephP0QANRSL0GGh9WwFEwywiOc-ev0wwr_O8NIhft3EFDTcnJviimrYtVO1d727OIBcD4gIZWv9mRS93IT1_lRQxZREqqN5HkI7aWx9Ps6xZhY-lLDFJiJEDK0OKGUFl2pnEDa9_hB2Wx6qLtg4Wx99P2t3BnyjeYxy4IGl5RuD_DX65bd839OZ75v3ltLyVTem64flP_xHY_e2yUbHP6RD4Ek1C9VJZB2Py8G_WdWwgP222I9tNGy5LH_daEQmmPTZT6nqGCTddAXYA0dAhL9HoKROLhcpMB4-3nQI54-FbFiAi1VIcspjdPJgmpakWrM3ugxg9hgHpHqIYDFplH_Pfiptm3HLq8HIhLct8zuyeoMJmkxoLMrh1P3kMF0XHJUV0_64UD8RBzikCcO4EociGRTbFq1QDMAxVZlBNhsSPJbUZT5kIMZPml2JPS_dRBhb_AFpC2J0XmYVS0QFVKb2cFjVTn5yQZpyACCRVkCIlkP39u8UANt-X0H9v1OFiCklJGUC7Xgh29rHvTfyd6H0TyqmyDUEylxb2LsCJKW0rh2&drmtype=0
 #EXTINF:-1 tvg-id="CCTV16超清" tvg-name="CCTV16超清" tvg-logo="" group-title="超清频道",CCTV16超清
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
+http://txycdn3.video.qq.com/1370437902.m3u8?time=1785826193&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIAhFzXodJSTQ8HOTgxsgZQZoXPZXsFzQhQPfs9OJ7DJJEGi14UH2f5T__Ku7gK9AiCYBcD2MCDrJTj7exb0yJumsIxABO4QReBG10oiN1UEWakLap-kHNeRvYaah39nQCEZTWJKx9zvA2bQ0pO0bJHe819n05nlVOlcv20ewVIm4Eh64HNC0pwPvSfDA3v81C31hL_VYfEdZy6yOUWwhVAD1wEH_-F394r1rsH9VBR91EilMns7uigOBCV4klKBEYzMjZKfHtq2A6u5ylPTv5m2nzJf6ZdUgGCZhls6IUPbZnfnjQDMKLJ56np-zfThIqu-5rmL-KLSopA3tJ9jTWWLCKNxT9zf449FFZNi56xQCodcIXX5re1HamEJjU9CX364no4tdIcFegrQP75SmEcEX_NR5PD1v56IZQHpY2KbRvwiDYA596eyOqWL1DqmE6sUj7OyIvojUbL4IeGhB9cX1rhLHLZoRrFsg3p26gBAz8a4JBKsJpnFdw-gmCwIuiydocRR0utwO76jWcwSiyNJdHnVT7wCpZk85AZVZssplRSgh&drmtype=0
 #EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="超清频道",湖南卫视超清
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
@@ -554,9 +564,13 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 tvg-id="深圳卫视超清" tvg-name="深圳卫视超清" tvg-logo="" group-title="超清频道",深圳卫视超清
+http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="深圳卫视超清" tvg-name="深圳卫视超清" tvg-logo="" group-title="超清频道",深圳卫视超清
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="天津卫视超清" tvg-name="天津卫视超清" tvg-logo="" group-title="超清频道",天津卫视超清
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="重庆卫视超清" tvg-name="重庆卫视超清" tvg-logo="" group-title="超清频道",重庆卫视超清
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="超清频道",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="超清频道",湖南卫视4K
