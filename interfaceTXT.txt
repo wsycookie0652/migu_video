@@ -1,7 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=441a920f31abdd13598c6fa4879136c0&wsTime=6a755863&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-20260807120035BAE8C09ED7FE68A518B5-LmuuPy
-CCTV6电影,http://txycdn1.video.qq.com/1755771402.m3u8?time=1786157841&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPjTq9_PzXItQu89ukTvNJWUEvmQb271FUc880_oZioZEJy6YTCteaodTn6iz7oRARYBcPTVkaqw1z7zBaLiLwGZYqhdOavG_IbxEYE6M7gxnWY6UKXXfwLfCY4Gg9YYv2lbOAA_u1E3TOAN-648Jv6gM5I9GiTC6G2fFtx1ck2zl16Wy9fVw_YBeZSS6Q4xo8AisDPZMdPB8a2OlC86P8mbLW4-aCk1P0a4TTCepqVgNy15jrIdo6ObfsDBkygfsLxIvGQw42Qht2mjUAqO6PIinGg2lYhdkBOWCT1n0Bvlm2eJU-cDz6uVdLlIzMIOZrf7aKAnDCeRdp8OYcboDQdw12uxv0Y0bzMyxGPAL22YBbcGcmyChJ4X7YzmawW4BMUUFlm7ve7VkyVDjaT_6GM8c19XP_wYA9J_boYmFelP5im1h8-0EmT5iYqZH9Kjn36eQlYta-gVb1ToBTNYF2WAZb4lfTe1VijvSH-DLwVs9rtKDslAvQJmpzdMRKSA48zriNB6cO0sTcnL92Ha_s6eumQJ7cFP2fRxCkKRSBq3jGJo&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV13新闻,http://pull-hs-f5.flive.douyincdn.com/media/stream-696306310906118828/index.m3u8?expire=1786679962&sign=4d6ff425c01afdceddcabaf627b709f1&volcSecret=4d6ff425c01afdceddcabaf627b709f1&volcTime=1786679962&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260807115922774F3CC52D5E934DB232-gZ0yhW
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -102,11 +101,11 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 广西地区,#genre#
 安徽地区,#genre#
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 吉林地区,#genre#
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
