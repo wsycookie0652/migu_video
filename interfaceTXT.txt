@@ -1,8 +1,9 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV5体育,http://txycdn4.video.qq.com/1369718502.m3u8?time=1786700701&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgILKRy7OOZ1kqBGHPBMguNGbXDG01_nd0zhRu7sQUO9fjEEl8_0fsnLHYvKpebGOg4yUBcJrgoXYi6mh6PDRYohOCTuhs_1woqkLKHYay9gXNwTMswXe2bz98Vyy48v7gpu0qMMSe5aIST-alP3rrtnw_GGghc3TofkNDf9KLy77wOOW8gyVTfEOpm5viBhGKjLlPN2WNaxz_wdjf5xhFZyNbpy-CXxGh-CUa2kg5T5foEGLWvn0PLZSnvj-kEnU23B0Z94Ia349Kxg_yjBDkGM50cNU8OOsemcYQln7hRlwSatoT-9Kx8GIWoPacN0ggXpdIfHHL_WL5QRp3XgQrUvd2u-D2P3jBKSwgVrzl-mMSkKJoRgUpbi8BMn_99tC0Z6nhk5JvvN5bIgDl7Sq1JgSyFt4u0Zn9WziIA762nsEkue1R0JJynbTgQwE_xO7NdCANY9qGfvosW8buX4SNxDbqeTszdPCQlr0MQ2r4nXCf90TS44fxoxiYBBnOgEymZQ1JbJlrRJ1snZIhfa5HYEfz4UeRz9dUumwwDJSuTzr-oFER&drmtype=0
+CCTV8电视剧,http://txycdn5.video.qq.com/1370436702.m3u8?time=1786700352&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgINza9uY2MDYYnG7aKopssSZ-nJQK-LeEXSNJrlV8KPnTEP3SQjUgXIUiFM_NwHnp0H0BcLv4uUowMt4LibsYiiQWRqq_fCoB5Z5l0lyOfT-dllOLAktch78wIx0vrts8sk2kk8GHTbhB9IbPuR3COjiBh84bEBNyENx0J6xbRWps2Q6R5qcsoXL9ZbVdiLwqfL4n0r7tmbmSh9usuuj1xhFB-pn_U7VrOP_B_nomtbU_0uHeQv3--vYR0vh4TISPdsnuJMnEvN7dnGwvWFb1mqcZPWsnHVydbt8fWsGXzZV6qwF99_cT6sNrqi8k4H4ku3MO5P5wzRL0VJEd34MybkPiSZYqf7a-x6s6hSsM4MpV6uQqsBL24f53Ezii_5Sv4MOZPpijkEcEitECwzBunA1Y7ggiM1awvU5mS915E17NUD5FCw91oPZa_hD67i79bZPR5Tne3T-MnL_dmAA2LqAGECzoPkH4PXc_-KmziJppcqO07jofzLo6WdvZrE1dWF3IEC8MgxEMqcFG84b8y59OoOYFlcjjXCqgO11IttB00olE&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -12,7 +13,7 @@ CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -21,7 +22,6 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 广东地区,#genre#
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -50,7 +50,6 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -73,10 +72,8 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
-沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -116,7 +113,6 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -316,7 +312,6 @@ CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV13超清,http://txycdn1.video.qq.com/1369932002.m3u8?time=1786699784&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIAE3PXGz62glU4pVWc8JgjK_au6KPveqXOhMQJE6qFeCEGnkKGHMuaMFizVMVjF1WMABcFPd2nY8es3hWV9WaSCw5fTI2XU_q2XmknoQ1nBHmX2tDFg7atZ13C98KomRNJOXXMNivEsQKFajjnF5uMXvF10bd6cRlLx-9BHQRJMENgpgqAgEk4Zmmf7NrHUR5gwExQ3yj7XIuZLmAup8odJkCqoLkqvOu5UEsCTe2SWEe8AoJGkXSxW23HJs_Pqg1xSsndBgpY_sXl0Z4bF_ELgLS_l48Rq4EZvNLfbhPShA2BzAwxADzt6WGf3IR4Tsd6GrulhQrhDWPYlGX00rlkYOqrnVFzAdSTLZR1lMt_G6HeQNNXdLxZxfdXEG2B8d4fH_wTpSR-3YGb3lMHob_1rxVxl6VSXwF9lLOoViwG86lxASRGG1obDg0rBhfBTpsVmp8HBzAZ-OpjeSKKWoJu3niR_GIkPmnZVmpY3z-xtPdSBuCiKJSW1W_Vtdpdp5EUo5gNFw-h5_e4YweeVPis0pc-lbZdCDwpMuop2OcHnC2nvd&drmtype=0
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
