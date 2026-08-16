@@ -1,10 +1,15 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV4中文国际,http://txycdn3.video.qq.com/1755787502.m3u8?time=1786849029&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDg1aX_f5Nc9vaWSaScGCTKqoL7NC4EYYWbOXtp2DZTxEAVHyDMmafhvmRC8uE3LjR0BcFQs3EZa_fk_FSJ1wXLLrafuHMv1dXxKd059oYJYa1lyLlo7j5crTarjrmpeHXw_-bOgYP7oE5suWWrJvrfXBrCvl5g6cTBXgvcQxLdd4FXbOfPlxd-nthK_6xuEly006TKrTPHJS8m2JMmyF9sRwv5N6uDIiBLMSTLO2i4iBoptV3Ydv7RmRn30LjUtqXd08mBCMlPDt_mTrkvG7e4fzX2feRIVRIuNtRU5Vlt9ft-ApUTpPizhyWHPw9HPb3_eNZ_nD8mEg6eM2umsr3GXfRGcftksqh2sXKka6jSlcLXm10DdWfD7HIA5oVy0WPP5T0U-dslcTUuA0vCcIsapJoy_Z95MCguS1DKeQxnrrI86cnKhNmTg0WPWzAhX8-otYwQnMHcK0sl46_yweaMfmZVjdGeRqv95rnh8W_XGut4BwLEmYY6wXfd1jj4LyfUzr-VRZ9a-5BoN_OodUiy0ngFi4WPyDF91X5N4sFH7by0r&drmtype=0
+CCTV5体育,http://txycdn1.video.qq.com/1369718502.m3u8?time=1786848978&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDmCufxVIUdenvZfcn2Bs4-PdWERL03Sr9xTFjXX_FxsEHwKk2HJ_jAH5Y9mjoAaH3oBcCoI8Bp8xX1fUJWuYmfie3o-9Hq-aRnqq_Ljtm7lpImZFXtx0hX9Tm8AdybPF1YzHjXN-k6QTBQQ1c4O-q9d7iy4TC3LCV470QBX66yIFYM5Giu0jnQmxWFE1zENuBLepKa6BFqcVdl6VpZsqzAi-Ms3F81sGSiprA8w3ns5dinqi6c6b_dHzfFV-PC4mHRA9OP80lVlYUbysxOez54Esrjpw7CDCFY_UnjIsc8uepIYYpSWWpk_BZ-Iw3fon1fudK04Dk40A516vwbJ82v5V421bHqNiaU4DTNDl5Xi6LolFU-10D1BKplOl47rxe_2rk7fiYGaCtVUroqRm_nu51STB7rh5ZnYLB31HjsjO6HkQldFoykhD5g55ZwVVAkkuUmDvWkzGmUs2enP3EwtbJqQmgckkcnMOWlQE63h1mjHopxpdJ0hgnHmLPRem6oKvLInXWlY93jshrjZbesGFX1rFpg6EYqCjTht-IFTbIUG&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -21,10 +26,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 广东地区,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南地区,#genre#
@@ -59,7 +61,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上海地区,#genre#
 江苏地区,#genre#
@@ -71,6 +72,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
@@ -113,7 +115,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -151,7 +152,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 福建地区,#genre#
-龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 河南地区,#genre#
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
@@ -266,7 +266,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
 山东地区,#genre#
-菏泽2,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 新疆地区,#genre#
 山西地区,#genre#
 天津地区,#genre#
