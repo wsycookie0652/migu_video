@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="" group-title="央视频道",CCTV4中文国际
-http://txycdn3.video.qq.com/1755787502.m3u8?time=1786849029&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDg1aX_f5Nc9vaWSaScGCTKqoL7NC4EYYWbOXtp2DZTxEAVHyDMmafhvmRC8uE3LjR0BcFQs3EZa_fk_FSJ1wXLLrafuHMv1dXxKd059oYJYa1lyLlo7j5crTarjrmpeHXw_-bOgYP7oE5suWWrJvrfXBrCvl5g6cTBXgvcQxLdd4FXbOfPlxd-nthK_6xuEly006TKrTPHJS8m2JMmyF9sRwv5N6uDIiBLMSTLO2i4iBoptV3Ydv7RmRn30LjUtqXd08mBCMlPDt_mTrkvG7e4fzX2feRIVRIuNtRU5Vlt9ft-ApUTpPizhyWHPw9HPb3_eNZ_nD8mEg6eM2umsr3GXfRGcftksqh2sXKka6jSlcLXm10DdWfD7HIA5oVy0WPP5T0U-dslcTUuA0vCcIsapJoy_Z95MCguS1DKeQxnrrI86cnKhNmTg0WPWzAhX8-otYwQnMHcK0sl46_yweaMfmZVjdGeRqv95rnh8W_XGut4BwLEmYY6wXfd1jj4LyfUzr-VRZ9a-5BoN_OodUiy0ngFi4WPyDF91X5N4sFH7by0r&drmtype=0
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="" group-title="央视频道",CCTV5体育
-http://txycdn1.video.qq.com/1369718502.m3u8?time=1786848978&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDmCufxVIUdenvZfcn2Bs4-PdWERL03Sr9xTFjXX_FxsEHwKk2HJ_jAH5Y9mjoAaH3oBcCoI8Bp8xX1fUJWuYmfie3o-9Hq-aRnqq_Ljtm7lpImZFXtx0hX9Tm8AdybPF1YzHjXN-k6QTBQQ1c4O-q9d7iy4TC3LCV470QBX66yIFYM5Giu0jnQmxWFE1zENuBLepKa6BFqcVdl6VpZsqzAi-Ms3F81sGSiprA8w3ns5dinqi6c6b_dHzfFV-PC4mHRA9OP80lVlYUbysxOez54Esrjpw7CDCFY_UnjIsc8uepIYYpSWWpk_BZ-Iw3fon1fudK04Dk40A516vwbJ82v5V421bHqNiaU4DTNDl5Xi6LolFU-10D1BKplOl47rxe_2rk7fiYGaCtVUroqRm_nu51STB7rh5ZnYLB31HjsjO6HkQldFoykhD5g55ZwVVAkkuUmDvWkzGmUs2enP3EwtbJqQmgckkcnMOWlQE63h1mjHopxpdJ0hgnHmLPRem6oKvLInXWlY93jshrjZbesGFX1rFpg6EYqCjTht-IFTbIUG&drmtype=0
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视频道",CCTV9纪录
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV16奥林匹克
@@ -49,10 +45,12 @@ http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="" group-title="广东地区",广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="" group-title="广东地区",广东移动
+http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="广东地区",广东嘉佳卡通
+http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="" group-title="广东地区",广东少儿
 http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
-http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="" group-title="广东地区",深圳都市
 http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
@@ -127,8 +125,6 @@ http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="" group-title="江苏地区",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-id="海门新闻综合" tvg-name="海门新闻综合" tvg-logo="" group-title="江苏地区",海门新闻综合
-http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 #EXTINF:-1 tvg-id="海门教育人文" tvg-name="海门教育人文" tvg-logo="" group-title="江苏地区",海门教育人文
 http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 #EXTINF:-1 tvg-id="海门经济生活" tvg-name="海门经济生活" tvg-logo="" group-title="江苏地区",海门经济生活
@@ -151,8 +147,6 @@ http://stream.thmz.com/wxtv4/sd/live.m3u8
 http://stream.thmz.com/wxtv2/sd/live.m3u8
 #EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="" group-title="江苏地区",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8
-#EXTINF:-1 tvg-id="涟水综合" tvg-name="涟水综合" tvg-logo="" group-title="江苏地区",涟水综合
-http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
 https://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
